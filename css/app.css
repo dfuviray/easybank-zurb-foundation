@@ -79,6 +79,7 @@ color: #4A4D55;
 }
 
 .button-request {
+  background: rgba(48,201, 127);
   background: -webkit-gradient(linear  ,left top, right top  ,from(rgba(48,201, 127)),color-stop(rgba(46,190,169)), to(rgba( 43,184,203)));
   background: -o-linear-gradient(left  ,rgba(48,201, 127),rgba(46,190,169), rgba( 43,184,203));
   background: linear-gradient(to right  ,rgba(48,201, 127),rgba(46,190,169), rgba( 43,184,203));
